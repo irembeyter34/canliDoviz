@@ -1,0 +1,11 @@
+.currency-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-top: 50px;
+    width: 550px;
+    height: 250px;
+    border: 5px solid black;
+}
